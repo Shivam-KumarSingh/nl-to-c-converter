@@ -1,0 +1,17 @@
+declare x is integer
+declare y is integer
+
+set x is 10
+set y is 5
+
+if x greater than y then
+    set x is 15
+end
+
+if x less than y then
+    set y is 20
+end
+
+if x equal to y then
+    set x is 0
+end

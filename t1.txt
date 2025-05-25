@@ -1,0 +1,8 @@
+declare x is integer
+declare y is float
+declare name is string
+declare numbers is array of size 10
+set x is 42
+set y is 3.14
+set name is "Hello World"
+print x

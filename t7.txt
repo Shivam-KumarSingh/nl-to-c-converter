@@ -1,0 +1,6 @@
+declare sum is integer
+set sum is 0
+
+for i in range 0 5 then
+    set sum is sum add i
+end

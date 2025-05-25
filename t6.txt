@@ -1,0 +1,6 @@
+declare counter is integer
+set counter is 0
+
+while counter less than 10 do
+    set counter is counter add 1
+end

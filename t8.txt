@@ -1,0 +1,15 @@
+declare x is integer
+declare y is integer
+declare result is integer
+
+set x is 10
+set y is 5
+
+if x greater than y then
+    set result is x multiply y
+    print result
+end
+
+for i in range 0 3 then
+    set x is x add i
+end

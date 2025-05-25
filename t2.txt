@@ -1,0 +1,4 @@
+declare numbers is array of size 5
+declare x is integer
+set x is 2
+set numbers[0] is x multiply 5

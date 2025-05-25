@@ -1,0 +1,4 @@
+set a as 10
+declare integer
+3 8 11 14 25 ?
+

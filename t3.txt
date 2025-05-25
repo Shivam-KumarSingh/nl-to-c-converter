@@ -1,0 +1,7 @@
+declare x is integer
+declare y is integer
+declare z is integer
+
+set x is 10
+set y is 20
+set z is x add y
